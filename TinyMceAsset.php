@@ -1,5 +1,5 @@
 <?php
-namespace pendalf89\tinymce;
+namespace jinowom\tinymce;
 
 use yii\web\AssetBundle;
 

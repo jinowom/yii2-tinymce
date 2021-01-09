@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist pendalf89/yii2-tinymce "*"
+php composer.phar require --prefer-dist jinowom/yii2-tinymce "*"
 ```
 
 or add
 
 ```
-"pendalf89/yii2-tinymce": "*"
+"jinowom/yii2-tinymce": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -26,7 +26,7 @@ Usage
 In view files:
 
 ```php
-use pendalf89\tinymce\TinyMce;
+use jinowom\tinymce\TinyMce;
 
 <?= $form->field($model, 'text')->widget(TinyMce::className(), [
     'clientOptions' => [
