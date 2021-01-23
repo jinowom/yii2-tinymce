@@ -1,7 +1,7 @@
 yii2-tinymce
 ============
 
-Renders a TinyMCE WYSIWYG text editor plugin widget. Inspired by [2amigos/yii2-tinymce-widget](https://github.com/2amigos/yii2-tinymce-widget) extension
+Renders a TinyMCE WYSIWYG text editor plugin widget. Inspired by [jinowom/yii2-tinymce](https://github.com/jinowom/yii2-tinymce) extension
 
 Installation
 ------------
